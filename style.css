@@ -1,3 +1,37 @@
 .couleur{
     color: white;
 }
+#video-conteneur{
+ 
+    width: 100%;
+}
+
+#champ-video{
+    position: relative;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    width: 100%;
+    left: 0;
+    top: 10px;
+}
+.content{
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    padding: 100px;
+    left: 55%;
+    right: auto;
+    height: 450px;
+    top: 5%;
+}
+.content-1{
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    padding: 100px;
+    left: 35%;
+    right: auto;
+    height: 450px;
+    top: 50%;
+}
